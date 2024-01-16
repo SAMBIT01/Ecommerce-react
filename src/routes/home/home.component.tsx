@@ -7,7 +7,7 @@ const Home = () => {
     <div>
       <Directory />
       <Outlet />
-    </div>
+    </div> 
   );
 };
 
